@@ -1,0 +1,23 @@
+---
+layout: post
+title: "textile"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
+{% highlight python %}
+def hello
+    puts 'hello world'
+{% endhighlight %}
+
+h1. Give RedCloth a try!
+
+A *simple* paragraph with
+a line break, some _emphasis_ and a "link":http://redcloth.org
+
+* an item
+* and another
+
+# one
+# two
